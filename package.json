@@ -1,0 +1,21 @@
+{
+  "name": "cucumber-project",
+  "version": "1.0.0",
+  "description": "testing framework to test web application using cucumber protractor framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harish",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^6.0.5",
+    "webdriver-manager": "^12.1.7"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0-rc.0",
+    "protractor": "^7.0.0",
+    "protractor-cucumber-framework": "^6.2.1"
+  }
+}

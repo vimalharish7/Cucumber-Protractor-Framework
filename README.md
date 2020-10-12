@@ -1,6 +1,8 @@
-# cucumber-framework
+# Cucumber-Framework
 
 Cucumber Protractor Framework
+
+Cucumber can be used to
 
 > The Framework can be used to test both Angular and Non-Angular Applications </n>
 > Nodejs and protractor needs to be installed as pre-requisite </n>
